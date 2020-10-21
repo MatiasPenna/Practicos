@@ -1,0 +1,179 @@
+    1  exit
+    2  ssh root@localhost
+    3  exit
+    4  yum install net-tools
+    5  yum install vim
+    6  exit
+    7  cd home
+    8  cd usuarui
+    9  cd usuario
+   10  mkdir sistemas
+   11  cd sistemas
+   12  touch archivo.txt
+   13  ls
+   14  git init
+   15  ls -la
+   16  ls -l
+   17  git add .
+   18  git status -s
+   19  git commit -m "primer archivo"
+   20  git config --global user.email "matiaspenna21@gmail.com"
+   21  git config --globla user.name "Matias"
+   22  git config --global user.name "Matias"
+   23  git commit -m "primer archivo"
+   24  git status -s
+   25  git clone git@github.com:MatiasPenna/sistemasoperativos.git
+   26  pwd
+   27  ls -la
+   28  exit
+   29  mv practico2uno.sh /home/usuario/sistemas
+   30  git commit -m "primer ejercicio practico2"
+   31  git status -s
+   32  git add sitemas
+   33  git add .
+   34  git push origin master
+   35  git push sistemasoperatvios
+   36  git push sistemasoperativos
+   37  git pull origin master
+   38  git clone git@github.com:MatiasPenna/sistemasoperativos.git
+   39  ls -la
+   40  ls -l
+   41  cd sistemas operativos
+   42  mv practico2uno.sh /home/
+   43  ls 
+   44  ls
+   45  rm archivo.txt
+   46  ls
+   47  cd..
+   48  cd ..
+   49  ls
+   50  ls -la
+   51  mv practico2uno.sh /home/root/sistemasoperativos
+   52  mv practico2uno.sh /home/usuario/descargas
+   53  cd sistemasoperativos
+   54  ls
+   55  vim practico2uno.sh
+   56  git add practico2uno.sh
+   57  git commit -m "primer ejercicio practico2"
+   58  git pull origin master
+   59  git push origin master
+   60  git push -u origin master
+   61  git pull
+   62  git push -u origin master
+   63  cd ..
+   64  ls
+   65  ls -la
+   66  cd home
+   67  ls -la
+   68  rm practico2uno.sh
+   69  cd usuario
+   70  ls -la
+   71  cd git
+   72  cd sistemasoperativos
+   73  ls -la
+   74  git pull
+   75  git add practico2uno.sh
+   76  git commit -m "primer ejercicio practico2"
+   77  git commit -m "primer ejercicio practico2uno"
+   78  git status -s
+   79  git push -u origin master
+   80  git add .
+   81  git commit -m "prueba"
+   82  git remote -v
+   83  git push heroku master
+   84  git show-ref
+   85  ssh-keygen
+   86  git push -u origin master
+   87  git pull origin master
+   88  git pull
+   89  cd .ssh
+   90  cd ..
+   91  ls
+   92  ls -la
+   93  cd .ssh
+   94  ssh-keygen
+   95  cd ..
+   96  exit
+   97  chmod 777 usuario
+   98  cd ..
+   99  pwd
+  100  chmod 777 usuario
+  101  cd ..
+  102  exit
+  103  chmod 777
+  104  cd ..
+  105  chmod 777 git
+  106  chmod 777 ~/.git
+  107  chmod 777 -r FETCH_HEAD
+  108  cd git
+  109  cd .git
+  110  chmod 777 
+  111  chmod 777 FETCH_HEAD
+  112  chmod 777 config
+  113  chmod 777 description
+  114  chmod 777 HEAD
+  115  chmod 777 hooks
+  116  chmod 777 index
+  117  chmod 777 infi
+  118  chmod 777 info
+  119  chmod 777 logs
+  120  chmod 777 objects
+  121  chmod 777 refs
+  122  chmod 777 branches
+  123  ll
+  124  chmod 777 COMMIT_EDITMSG
+  125  cd ..
+  126  exit
+  127  rm -rf sistemas
+  128  ls
+  129  rm -rf sistemasoperativos
+  130  ls
+  131  cd ..
+  132  exit
+  133  rm -rf sistemas
+  134  mkdir sistemas
+  135  exit
+  136  git init
+  137  git config --global user.email "matiaspenna21@gmail.com"
+  138  git config --global user.name "Matias"
+  139  git add .
+  140  git status -s
+  141  ls
+  142  ls -la
+  143  touch prueba
+  144  ls
+  145  git add .
+  146  git status -s
+  147  git commit -m "prueba"
+  148  git status -s
+  149  git push origin master
+  150  git pull
+  151  git pull origin master
+  152  git remote add origin git@github.com:MatiasPenna/Practicos.git
+  153  git push -u origin main
+  154  git pull --rebase origin master
+  155  git remote rm origin
+  156  git remote rm upstream
+  157  git remote add origin git@github.com:MatiasPenna/Practicos.git
+  158  git push -u origin main
+  159  git push -u origin master
+  160  ls
+  161  git status -s
+  162  git add .
+  163  git status -s
+  164  git commit -m "prueba"
+  165  vim practico2uno.sh
+  166  git add .
+  167  git status -s
+  168  git commit -m "practico 2 ejercicio 1"
+  169  git push -u origin master
+  170  vim practico2dos.sh
+  171  vim practico2tres.sh
+  172  vim practico2cuatro.sh
+  173  vim practico2cinco.sh
+  174  vim practico2seis.sh
+  175  rm practico2seis.sh
+  176  git add .
+  177  git commit -m "practicos 2 ejrcicios 2 al 5"
+  178  git push -u origin master
+  179  history >>Comandos.text
